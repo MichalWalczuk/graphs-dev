@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T18:29:56.306Z" agent="5.0 (Macintosh)" etag="RoUHIdpQQ9dxmcgF7JA8" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T18:30:25.563Z" agent="5.0 (Macintosh)" etag="WN8FELYfQCxV18U0-S80" version="20.6.0" type="github">
   <diagram id="wtMj7vI80yQPvqa93BeU" name="Strona-1">
-    <mxGraphModel dx="2188" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2409" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,7 +114,7 @@
         <mxCell id="JxuWsWS6-s0mUiU3lW4O-59" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=1;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;strokeColor=#1A1A1A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#4D4D4D;fillColor=none;" vertex="1" parent="JxuWsWS6-s0mUiU3lW4O-73">
           <mxGeometry width="353.84615384615387" height="202.22222222222226" as="geometry" />
         </mxCell>
-        <mxCell id="JxuWsWS6-s0mUiU3lW4O-60" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;strokeColor=#1A1A1A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#4D4D4D;fillColor=none;" vertex="1" parent="JxuWsWS6-s0mUiU3lW4O-73">
+        <mxCell id="JxuWsWS6-s0mUiU3lW4O-60" value="[[no change]]" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;strokeColor=#1A1A1A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#4D4D4D;fillColor=none;" vertex="1" parent="JxuWsWS6-s0mUiU3lW4O-73">
           <mxGeometry x="123.07692307692308" y="15.555555555555557" width="207.6923076923077" height="171.11111111111111" as="geometry" />
         </mxCell>
         <mxCell id="JxuWsWS6-s0mUiU3lW4O-61" value="User List" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;strokeColor=#1A1A1A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#4D4D4D;fillColor=none;" vertex="1" parent="JxuWsWS6-s0mUiU3lW4O-73">
