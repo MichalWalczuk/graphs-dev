@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T18:27:21.530Z" agent="5.0 (Macintosh)" etag="1oHCznq8NoGKYgyjo9ed" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T18:28:50.185Z" agent="5.0 (Macintosh)" etag="QoUG2AZgzFLZ1i6yes7O" version="20.6.0" type="github">
   <diagram id="wtMj7vI80yQPvqa93BeU" name="Strona-1">
-    <mxGraphModel dx="2357" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1763" dy="308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
           <mxGeometry x="290" y="620" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JxuWsWS6-s0mUiU3lW4O-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="680" width="400" height="210" as="geometry" />
+          <mxGeometry x="140" y="680" width="540" height="450" as="geometry" />
         </mxCell>
         <mxCell id="JxuWsWS6-s0mUiU3lW4O-59" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=1;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;strokeColor=#1A1A1A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#4D4D4D;fillColor=none;" vertex="1" parent="JxuWsWS6-s0mUiU3lW4O-58">
           <mxGeometry y="7.777777777777778" width="353.84615384615387" height="202.22222222222226" as="geometry" />
@@ -118,8 +118,11 @@
         <mxCell id="JxuWsWS6-s0mUiU3lW4O-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/3917/3917754.png;" vertex="1" parent="JxuWsWS6-s0mUiU3lW4O-62">
           <mxGeometry x="76.92307692307693" y="5.833333333333325" width="5.833333333333334" height="5.833333333333334" as="geometry" />
         </mxCell>
-        <mxCell id="JxuWsWS6-s0mUiU3lW4O-65" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Messages&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fontColor=#4D4D4D;" vertex="1" parent="JxuWsWS6-s0mUiU3lW4O-62">
+        <mxCell id="JxuWsWS6-s0mUiU3lW4O-65" value="Search for" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fontColor=#4D4D4D;" vertex="1" parent="JxuWsWS6-s0mUiU3lW4O-62">
           <mxGeometry x="7.6923076923076925" y="11.666666666666668" width="61.53846153846154" height="19.4425" as="geometry" />
+        </mxCell>
+        <mxCell id="JxuWsWS6-s0mUiU3lW4O-68" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thumbs.dreamstime.com/b/messaging-icon-vector-speech-bubbles-simple-style-161466013.jpg;" vertex="1" parent="JxuWsWS6-s0mUiU3lW4O-62">
+          <mxGeometry x="71.46" y="5.83" width="16.76" height="16.76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
