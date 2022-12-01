@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T18:13:31.296Z" agent="5.0 (Macintosh)" etag="24_Cj6-oKzcyp_3Woubk" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T18:14:12.965Z" agent="5.0 (Macintosh)" etag="vTtc2siW89Hfkgt8KXSv" version="20.6.0" type="github">
   <diagram id="wtMj7vI80yQPvqa93BeU" name="Strona-1">
     <mxGraphModel dx="1019" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -39,6 +39,12 @@
         </mxCell>
         <mxCell id="JxuWsWS6-s0mUiU3lW4O-14" value="Desktop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Architects Daughter;fontColor=#4D4D4D;sketch=1;hachureGap=4;jiggle=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
           <mxGeometry x="680" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JxuWsWS6-s0mUiU3lW4O-15" value="Chat" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;strokeColor=#1A1A1A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#4D4D4D;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="330" width="270" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="JxuWsWS6-s0mUiU3lW4O-16" value="Conversations" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;strokeColor=#1A1A1A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#4D4D4D;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="383" width="120" height="167" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
