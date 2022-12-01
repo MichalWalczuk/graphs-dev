@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T18:35:57.574Z" agent="5.0 (Macintosh)" etag="uEzMlpOV04e5F-shglik" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T18:36:11.302Z" agent="5.0 (Macintosh)" etag="h8i9mFGAsss4mwOBjVnN" version="20.6.0" type="github">
   <diagram id="wtMj7vI80yQPvqa93BeU" name="Strona-1">
     <mxGraphModel dx="2357" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
           <mxGeometry x="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JxuWsWS6-s0mUiU3lW4O-93" value="Left bottom bar" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;rounded=0;shadow=1;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;strokeColor=#1A1A1A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#1A1A1A;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="980" width="480" height="380" as="geometry" />
+          <mxGeometry x="-40" y="980" width="480" height="260" as="geometry" />
         </mxCell>
         <mxCell id="JxuWsWS6-s0mUiU3lW4O-94" value="Thread" style="swimlane;startSize=20;horizontal=0;html=1;rounded=0;shadow=1;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;strokeColor=#1A1A1A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#1A1A1A;fillColor=none;" vertex="1" parent="JxuWsWS6-s0mUiU3lW4O-93">
           <mxGeometry y="20" width="480" height="120" as="geometry" />
@@ -164,9 +164,6 @@
         </mxCell>
         <mxCell id="JxuWsWS6-s0mUiU3lW4O-98" value="Search " style="whiteSpace=wrap;html=1;rounded=0;shadow=1;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;strokeColor=#1A1A1A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#1A1A1A;fillColor=none;" vertex="1" parent="JxuWsWS6-s0mUiU3lW4O-95">
           <mxGeometry x="50" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JxuWsWS6-s0mUiU3lW4O-96" value="Lane 3" style="swimlane;startSize=20;horizontal=0;html=1;rounded=0;shadow=1;glass=0;sketch=1;hachureGap=4;jiggle=2;fillStyle=zigzag;strokeColor=#1A1A1A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=13;fontColor=#1A1A1A;fillColor=none;" vertex="1" parent="JxuWsWS6-s0mUiU3lW4O-93">
-          <mxGeometry y="260" width="480" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
